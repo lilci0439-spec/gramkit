@@ -255,8 +255,9 @@ several releases add core columns that need a migration in every app.
 3. Make changes and test: `make test APP=template-vue`
 4. Commit: `git commit -m "feat: your feature"`
 5. Push and open a Pull Request
+6. 
 
 ## License
 
 MIT — See [LICENSE](LICENSE)
-.
+a
