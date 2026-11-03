@@ -259,3 +259,4 @@ several releases add core columns that need a migration in every app.
 ## License
 
 MIT — See [LICENSE](LICENSE)
+.
